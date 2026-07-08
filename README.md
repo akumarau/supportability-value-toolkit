@@ -2,7 +2,7 @@
 
 **A program-management framework, working automation, and an ROI model that turn product supportability into measurable dollars — on both the cost-saving and revenue sides.**
 
-> Built by a Senior Supportability Program Manager to show how disciplined supportability practice reduces support cost *and* protects/grows revenue. All data here is synthetic — no confidential or customer information.
+> Built by a Senior Supportability PM to show how disciplined supportability practice reduces support cost *and* protects/grows revenue. All data here is synthetic — no confidential or customer information.
 
 ---
 
