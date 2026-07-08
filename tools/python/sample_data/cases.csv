@@ -1,0 +1,21 @@
+case_id,product_area,driver,handle_minutes,escalated,self_service_available,has_kb_article
+C0001,Authentication,SSO token expiry,42,no,yes,yes
+C0002,Authentication,SSO token expiry,38,no,yes,yes
+C0003,Updates,Failed patch rollback,120,yes,no,no
+C0004,Networking,Proxy misconfiguration,55,no,yes,no
+C0005,Updates,Failed patch rollback,140,yes,no,no
+C0006,Licensing,Activation failure,30,no,yes,yes
+C0007,Networking,Proxy misconfiguration,60,no,yes,no
+C0008,Authentication,MFA enrolment loop,48,no,yes,yes
+C0009,Updates,Failed patch rollback,110,yes,no,no
+C0010,Storage,Disk quota exhaustion,75,yes,no,yes
+C0011,Licensing,Activation failure,28,no,yes,yes
+C0012,Networking,Proxy misconfiguration,65,no,yes,no
+C0013,Authentication,SSO token expiry,40,no,yes,yes
+C0014,Updates,Failed patch rollback,130,yes,no,no
+C0015,Storage,Disk quota exhaustion,80,yes,no,yes
+C0016,Networking,Proxy misconfiguration,58,no,yes,no
+C0017,Authentication,MFA enrolment loop,50,no,yes,yes
+C0018,Updates,Failed patch rollback,125,yes,no,no
+C0019,Licensing,Activation failure,32,no,yes,yes
+C0020,Networking,Proxy misconfiguration,62,no,yes,no

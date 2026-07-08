@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated artefacts
+roi-model/*.xlsx
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
